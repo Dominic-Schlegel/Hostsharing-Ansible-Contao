@@ -1,0 +1,2 @@
+[contao]
+xyz00 ansible_ssh_host=xyz00.hostsharing.net ansible_ssh_user=xyz00 pac=xyz00 domain=contao.xyz00.hostsharing.net user=contao password=testpassw0rd!?
