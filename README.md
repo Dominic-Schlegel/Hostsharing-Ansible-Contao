@@ -1,6 +1,6 @@
 Hostsharing-Ansible-Contao
 ==========================
-This Ansible playbook will install Contao 3.4.0 on a server from www.hostsharing.net.
+This Ansible playbook will install Contao 3.5.4 on a server from www.hostsharing.net.
 
 To use these modules we have to create a file named ".hsadmin.properties" in the home directory of the package admins. In it we have to insert the packagename and password of the package admin. 
 
