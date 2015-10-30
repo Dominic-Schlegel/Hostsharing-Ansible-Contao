@@ -10,7 +10,7 @@
   - name: download contao tarball
     sudo: yes
     sudo_user: "{{pac}}-{{user}}"
-    command: wget https://download.contao.org/3.4.0/tar chdir="/tmp/"
+    command: wget https://download.contao.org/3.5.4/tar chdir="/tmp/"
   - name: extract tarball
     sudo: yes
     sudo_user: "{{pac}}-{{user}}"
